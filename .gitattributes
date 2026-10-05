@@ -1,0 +1,11 @@
+# Finales de línea normalizados (LF) en el repositorio
+* text=auto eol=lf
+
+# Datos generados desde el volcado de PokeMMO: GitHub los pliega en los diffs
+# y no los cuenta en las estadísticas de lenguajes.
+src/data/generated/*.json linguist-generated=true
+package-lock.json linguist-generated=true
+
+*.png binary
+*.jpg binary
+*.ico binary

@@ -1,0 +1,254 @@
+{
+ "195": {
+  "id": 195,
+  "name": "Everstone",
+  "nameEs": "Piedraeterna",
+  "description": "An item to be held by a POKéMON. The holding POKéMON is prevented from evolving."
+ },
+ "202": {
+  "id": 202,
+  "name": "Light Ball",
+  "nameEs": "Bolaluminosa",
+  "description": "An orb to be held by a PIKACHU that raises the SP. ATK stat. Touching it may cause a shock."
+ },
+ "1005": {
+  "id": 1005,
+  "name": "Brace - HP",
+  "nameEs": "BRAZAL - PS",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will make the Pokémon's Hp IV the dominant trait. This item is consumed upon use."
+ },
+ "1006": {
+  "id": 1006,
+  "name": "Brace - Attack",
+  "nameEs": "BRAZAL - ATAQUE",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will make the Pokémon's Attack IV the dominant trait. This item is consumed upon use."
+ },
+ "1007": {
+  "id": 1007,
+  "name": "Brace - Defense",
+  "nameEs": "BRAZAL - DEFENSA",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will make the Pokémon's Defense IV the dominant trait. This item is consumed upon use."
+ },
+ "1008": {
+  "id": 1008,
+  "name": "Brace - Sp.Atk",
+  "nameEs": "BRAZAL - AT.ESP",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will make the Pokémon's Special Attack IV the dominant trait. This item is consumed upon use."
+ },
+ "1009": {
+  "id": 1009,
+  "name": "Brace - Sp.Def",
+  "nameEs": "BRAZAL - DEF.ESP",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will make the Pokémon's Special Defense IV the dominant trait. This item is consumed upon use."
+ },
+ "1010": {
+  "id": 1010,
+  "name": "Brace - Speed",
+  "nameEs": "BRAZAL - VELOCIDAD",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will make the Pokémon's Speed IV the dominant trait. This item is consumed upon use."
+ },
+ "1018": {
+  "id": 1018,
+  "name": "Ability Pill",
+  "nameEs": "Píldora Habilidad",
+  "description": "A pill that can be used to switch the ability of a Pokémon. Consumed on use."
+ },
+ "1125": {
+  "id": 1125,
+  "name": "Ability Pill",
+  "nameEs": "Píldora Habilidad",
+  "description": "A pill that can be used to switch the ability of a Pokémon. Consumed on use."
+ },
+ "1296": {
+  "id": 1296,
+  "name": "Ability Patch",
+  "nameEs": "Parche de Habilidad",
+  "description": "An item to be used with a Pokémon. Unlocks Hidden Ability potential. Consumed upon use."
+ },
+ "1422": {
+  "id": 1422,
+  "name": "Prismatic Pearl",
+  "nameEs": "Perla Prismática",
+  "description": "A rainbow-infused pearl rumored to have been harvested from an oddly colored Clamperl. Allows transferring the Hidden Ability potential of a Pokémon to another within the same evolution line. Consumed upon use."
+ },
+ "5229": {
+  "id": 5229,
+  "name": "Everstone",
+  "nameEs": "Piedraeterna",
+  "description": "An item to be held by a Pokémon. The holding Pokémon is prevented from evolving. If held by a Pokémon while breeding, the child will always have the holder's Nature."
+ },
+ "5236": {
+  "id": 5236,
+  "name": "Light Ball",
+  "nameEs": "Bolaluminosa",
+  "description": "An item to be held by Pikachu which doubles its Attack and Sp.Attack when in battle. If held by a Pikachu while breeding a Pichu, it will learn Volt Tackle."
+ },
+ "5254": {
+  "id": 5254,
+  "name": "Sea Incense",
+  "nameEs": "Incie. Mar.",
+  "description": "An item to be held by a Pokémon. It increases the power of Water-type moves by 20%. If held by a Marill or Azumarill while breeding, it may help them produce a Azurill egg."
+ },
+ "5255": {
+  "id": 5255,
+  "name": "Lax Incense",
+  "nameEs": "Incie. Suave",
+  "description": "An item to be held by a Pokémon. It slightly reduces the foe's Accuracy. If held by a Wobbuffet while breeding, it may help them produce a Wynaut egg."
+ },
+ "5280": {
+  "id": 5280,
+  "name": "Destiny Knot",
+  "nameEs": "Lazo Destino",
+  "description": "A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too."
+ },
+ "5289": {
+  "id": 5289,
+  "name": "Power Bracer",
+  "nameEs": "Brazal Recio",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will guarantee the child inherits this Pokémon's Attack IV. This item is consumed upon use."
+ },
+ "5290": {
+  "id": 5290,
+  "name": "Power Belt",
+  "nameEs": "Cinto Recio",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will guarantee the child inherits this Pokémon's Defense IV. This item is consumed upon use."
+ },
+ "5291": {
+  "id": 5291,
+  "name": "Power Lens",
+  "nameEs": "Lente Recia",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will guarantee the child inherits this Pokémon's Sp.Atk IV. This item is consumed upon use."
+ },
+ "5292": {
+  "id": 5292,
+  "name": "Power Band",
+  "nameEs": "Banda Recia",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will guarantee the child inherits this Pokémon's Sp.Def IV. This item is consumed upon use."
+ },
+ "5293": {
+  "id": 5293,
+  "name": "Power Anklet",
+  "nameEs": "Franja Recia",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will guarantee the child inherits this Pokémon's Speed IV. This item is consumed upon use."
+ },
+ "5294": {
+  "id": 5294,
+  "name": "Power Weight",
+  "nameEs": "Pesa Recia",
+  "description": "An item to be held by a Pokémon when breeding. Holding this item will guarantee the child inherits this Pokémon's HP IV. This item is consumed upon use."
+ },
+ "5314": {
+  "id": 5314,
+  "name": "Odd Incense",
+  "nameEs": "Incie. Raro",
+  "description": "An item to be held by a Pokémon. It increases the power of Psychic-type moves by 20%. If held by a Mr. Mime while breeding, it may help them produce a Mime Jr. egg."
+ },
+ "5315": {
+  "id": 5315,
+  "name": "Rock Incense",
+  "nameEs": "Incie. Roca",
+  "description": "An item to be held by a Pokémon. It increases the power of Rock-type moves by 20%. If held by a Sudowoodo while breeding, it may help them produce a Bonsly egg."
+ },
+ "5316": {
+  "id": 5316,
+  "name": "Full Incense",
+  "nameEs": "Incie. Lento",
+  "description": "An item to be held by a Pokémon. it causes the Pokémon to move last when using a move of the same priority as the opponent. If held by a Snorlax while breeding, it may help them produce a Munchlax egg."
+ },
+ "5317": {
+  "id": 5317,
+  "name": "Wave Incense",
+  "nameEs": "Incie. Aqua",
+  "description": "An item to be held by a Pokémon. It increases the power of Water-type moves by 20%. If held by a Mantine while breeding, it may help them produce a Mantyke egg."
+ },
+ "5318": {
+  "id": 5318,
+  "name": "Rose Incense",
+  "nameEs": "Inc. Floral",
+  "description": "An item to be held by a Pokémon. It increases the power of Grass-type moves by 20%. If held by a Roselia or Roserade while breeding, it may help them produce a Budew egg."
+ },
+ "5319": {
+  "id": 5319,
+  "name": "Luck Incense",
+  "nameEs": "Incie. Duplo",
+  "description": "An item to be held by a Pokémon. If held by a Chansey while breeding, it may help them produce a Happiny egg."
+ },
+ "5320": {
+  "id": 5320,
+  "name": "Pure Incense",
+  "nameEs": "Incie. Puro",
+  "description": "An item to be held by a Pokémon. It slightly reduces the chance of encountering wild Pokémon. If held by a Chimecho while breeding, it may help them produce a Chingling egg."
+ },
+ "6229": {
+  "id": 6229,
+  "name": "Everstone",
+  "nameEs": "Piedraeterna",
+  "description": "An item to be held by a Pokémon. The holding Pokémon is prevented from evolving. If held by a Pokémon while breeding, the child will always have the holder's Nature."
+ },
+ "6236": {
+  "id": 6236,
+  "name": "Light Ball",
+  "nameEs": "Bolaluminosa",
+  "description": "An item to be held by Pikachu which doubles its Attack and Sp.Attack when in battle. If held by a Pikachu while breeding a Pichu, it will learn Volt Tackle."
+ },
+ "6254": {
+  "id": 6254,
+  "name": "Sea Incense",
+  "nameEs": "Incie. Mar.",
+  "description": "An item to be held by a Pokémon. It increases the power of Water-type moves by 20%. If held by a Marill or Azumarill while breeding, it may help them produce a Azurill egg."
+ },
+ "6255": {
+  "id": 6255,
+  "name": "Lax Incense",
+  "nameEs": "Incie. Suave",
+  "description": "An item to be held by a Pokémon. It slightly reduces the foe's Accuracy. If held by a Wobbuffet while breeding, it may help them produce a Wynaut egg."
+ },
+ "6314": {
+  "id": 6314,
+  "name": "Odd Incense",
+  "nameEs": "Incie. Raro",
+  "description": "An item to be held by a Pokémon. It increases the power of Psychic-type moves by 20%. If held by a Mr. Mime while breeding, it may help them produce a Mime Jr. egg."
+ },
+ "6315": {
+  "id": 6315,
+  "name": "Rock Incense",
+  "nameEs": "Incie. Roca",
+  "description": "An item to be held by a Pokémon. It increases the power of Rock-type moves by 20%. If held by a Sudowoodo while breeding, it may help them produce a Bonsly egg."
+ },
+ "6316": {
+  "id": 6316,
+  "name": "Full Incense",
+  "nameEs": "Incie. Lento",
+  "description": "An item to be held by a Pokémon. it causes the Pokémon to move last when using a move of the same priority as the opponent. If held by a Snorlax while breeding, it may help them produce a Munchlax egg."
+ },
+ "6317": {
+  "id": 6317,
+  "name": "Wave Incense",
+  "nameEs": "Incie. Aqua",
+  "description": "An item to be held by a Pokémon. It increases the power of Water-type moves by 20%. If held by a Mantine while breeding, it may help them produce a Mantyke egg."
+ },
+ "6318": {
+  "id": 6318,
+  "name": "Rose Incense",
+  "nameEs": "Inc. Floral",
+  "description": "An item to be held by a Pokémon. It increases the power of Grass-type moves by 20%. If held by a Roselia or Roserade while breeding, it may help them produce a Budew egg."
+ },
+ "6319": {
+  "id": 6319,
+  "name": "Luck Incense",
+  "nameEs": "Incie. Duplo",
+  "description": "An item to be held by a Pokémon. If held by a Chansey while breeding, it may help them produce a Happiny egg."
+ },
+ "6320": {
+  "id": 6320,
+  "name": "Pure Incense",
+  "nameEs": "Incie. Puro",
+  "description": "An item to be held by a Pokémon. It slightly reduces the chance of encountering wild Pokémon. If held by a Chimecho while breeding, it may help them produce a Chingling egg."
+ },
+ "7018": {
+  "id": 7018,
+  "name": "Ability Pill",
+  "nameEs": "Píldora Habilidad",
+  "description": "A pill that can be used to switch the ability of a Pokémon. Consumed on use."
+ }
+}

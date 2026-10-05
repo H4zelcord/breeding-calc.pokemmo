@@ -1,0 +1,160 @@
+# =============================================================================
+# PokeMMO Breeding Planner — .gitignore
+# Basado en la plantilla oficial de GitHub para Node (github/gitignore),
+# adaptado a Vite + React + TypeScript + Vitest y a los datos del proyecto.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Datos del proyecto
+# -----------------------------------------------------------------------------
+# Volcado en bruto de PokeMMO (≈12 MB). NO se sube: la app usa los datos ya
+# generados en src/data/generated/ (ésos SÍ se suben). Para regenerarlos:
+#   git clone --depth 1 https://github.com/PokeMMO-Tools/pokemmo-data data-raw/pokemmo-data
+#   npm run data
+data-raw/
+
+# Exportaciones de colecciones / planes hechas desde la app para pruebas
+coleccion-pokemmo*.json
+plan-*.json
+
+# -----------------------------------------------------------------------------
+# Dependencias
+# -----------------------------------------------------------------------------
+node_modules/
+jspm_packages/
+web_modules/
+bower_components/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.npm/
+.pnpm-store/
+
+# El proyecto usa npm (package-lock.json); se ignoran los lockfiles de otros gestores
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# -----------------------------------------------------------------------------
+# Builds y cachés
+# -----------------------------------------------------------------------------
+dist/
+dist-ssr/
+build/
+out/
+*.local
+*.tsbuildinfo
+.vite/
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.rollup.cache/
+.turbo/
+.temp/
+.tmp/
+tmp/
+temp/
+*.tgz
+
+# -----------------------------------------------------------------------------
+# Tests y cobertura
+# -----------------------------------------------------------------------------
+coverage/
+*.lcov
+.nyc_output/
+reports/
+junit.xml
+test-results/
+playwright-report/
+.vitest/
+
+# -----------------------------------------------------------------------------
+# Variables de entorno y secretos
+# -----------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# -----------------------------------------------------------------------------
+# Logs y diagnósticos
+# -----------------------------------------------------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# -----------------------------------------------------------------------------
+# Editores e IDEs
+# -----------------------------------------------------------------------------
+# VS Code (se permiten las recomendaciones de extensiones compartidas)
+.vscode/*
+!.vscode/extensions.json
+.history/
+*.vsix
+# JetBrains (WebStorm, IntelliJ…)
+.idea/
+*.iml
+*.iws
+*.ipr
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+# Otros
+*.code-workspace
+.fleet/
+.zed/
+
+# -----------------------------------------------------------------------------
+# Sistemas operativos
+# -----------------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+# Linux
+.directory
+.fuse_hidden*
+.nfs*
+.Trash-*
+
+# -----------------------------------------------------------------------------
+# Herramientas de IA / asistentes (configuración local)
+# -----------------------------------------------------------------------------
+.claude/
+CLAUDE.local.md
+.cursor/
+.aider*

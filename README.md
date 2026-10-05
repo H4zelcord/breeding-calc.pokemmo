@@ -191,25 +191,6 @@ costes, colección (disponible, obligatorio, prohibido, cantidades, shiny), caso
 soluciones, persistencia, importación/exportación y casos completos de principio a fin.
 Cada árbol generado en los tests se valida de forma independiente (`verifySolution`).
 
-## Limitaciones conocidas
-
-- **Garantías, no probabilidades**: el motor sólo planifica lo garantizado. La HA tiene probabilidad
-  desconocida (R44): se indica en el plan. El incienso funciona siempre (R09b, comprobado en el juego).
-- **Movimientos huevo por la madre (R52)**: no verificado, así que está desactivado por defecto. Con la regla
-  verificada (sólo el padre), algunas combinaciones son imposibles y el motor lo explica
-  (p. ej. Belly Drum + Aqua Jet en Azumarill).
-- **Casos especiales** Nidoran♀/Illumise (R11): se asume que la cría es de la especie de la hembra.
-- **Puentes de grupo huevo**: los padres de otra especie se usan para transmitir IVs dentro de un grupo
-  compartido (un salto). Las cadenas de varios saltos sólo se usan para movimientos huevo.
-- **Ditto**: no se cría, así que con especies sólo macho (Tauros…) más de 2 IVs garantizados requieren un Ditto
-  con varios IVs en la colección.
-- **Precios**: los de los braces y el género son estimaciones de la comunidad. El resto (Piedraeterna, Pokémon…)
-  hay que introducirlos en *Configuración → Precios*.
-- **Óptimo**: con colecciones grandes la búsqueda puede alcanzar su presupuesto (configurable). La solución
-  sigue siendo válida, pero se marca como "puede no ser la óptima".
-- Formas alternativas (Rotom, Deoxys…) no se distinguen: se trabaja con la especie base.
-- Los sprites necesitan conexión a internet.
-
 ---
 
 ## Estructura del repositorio

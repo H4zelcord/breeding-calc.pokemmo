@@ -62,38 +62,6 @@ Los colores del árbol siempre van acompañados de un icono y un texto (accesibi
 
 ---
 
-## Reglas de PokeMMO
-
-Las reglas están investigadas y documentadas, con sus fuentes, en
-**[docs/POKEMMO_BREEDING_RULES.md](docs/POKEMMO_BREEDING_RULES.md)**. También se ven en la app,
-en *Configuración → Reglas*. Resumen:
-
-| Regla | Estado |
-|---|---|
-| Ambos padres se pierden; un huevo por cruce | VERIFIED |
-| 3 IVs directos + 3 IVs = media de los padres (redondeo hacia abajo) | VERIFIED |
-| Brace (Pesa Recia, Brazal Recio… / Power Weight, Power Bracer…): fuerza el IV de ese stat del portador; se consume | VERIFIED |
-| Mismo IV en ambos padres ⇒ garantizado en el hijo | VERIFIED |
-| Piedraeterna (Everstone): el hijo tiene siempre la naturaleza del portador (única forma de garantizarla) | VERIFIED |
-| Elegir el género del huevo cuesta dinero según el ratio | VERIFIED (precios: ESTIMATE) |
-| HA: debe tenerla un padre de la misma línea; un macho con HA necesita hembra de su línea o Ditto | VERIFIED |
-| Probabilidad de transmitir la HA | **UNKNOWN** (se avisa) |
-| Movimientos huevo: los transmite el padre; cadenas entre especies compatibles | VERIFIED |
-| La madre también transmite movimientos huevo | **UNKNOWN** (desactivado; opción experimental) |
-| Ditto cría con todo menos con Ditto; sin género sólo con su línea o Ditto | VERIFIED |
-| Bebés: no crían; inciensos llevados por la especie indicada, 100 % de huevos bebé | VERIFIED |
-| Bolaluminosa (Light Ball) en Pikachu ⇒ Volt Tackle | VERIFIED |
-
-El motor **nunca** construye una solución basándose en una regla `UNKNOWN`. Si hay dos opciones,
-elige la que es válida en cualquier caso; si es una probabilidad, la marca como "no garantizada".
-
-### Diferencias con los juegos principales
-Padres consumidos, herencia 3 directos + 3 promediados, sin Lazo Destino, braces consumibles,
-género comprable, eclosión por tiempo y datos propios (p. ej. Nidoqueen puede criar).
-Ver el documento de reglas.
-
----
-
 ## Fuentes de datos
 
 - **Especies, grupos huevo, géneros, habilidades, evoluciones y movimientos**: volcado oficial del cliente
